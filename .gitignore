@@ -1,0 +1,7 @@
+*.*~
+.emacs.d/auto-save-list
+.emacs.d/elpa
+.emacs.d/org-mode
+*.zwc
+.zsh/cache
+.zsh/private_aliases.zsh
